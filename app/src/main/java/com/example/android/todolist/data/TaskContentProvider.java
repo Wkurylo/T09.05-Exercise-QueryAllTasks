@@ -146,11 +146,11 @@ public class TaskContentProvider extends ContentProvider {
 
         return returnCursor;
 
-        // TODO (2) Write URI match code and set a variable to return a Cursor
+        // completed (2) Write URI match code and set a variable to return a Cursor
 
-        // TODO (3) Query for the tasks directory and write a default case
+        // completed (3) Query for the tasks directory and write a default case
 
-        // TODO (4) Set a notification URI on the Cursor and return that Cursor
+        // completed (4) Set a notification URI on the Cursor and return that Cursor
 
     }
 
